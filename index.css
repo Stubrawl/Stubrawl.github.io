@@ -1,0 +1,68 @@
+*{
+margin: 0
+padding:0
+}
+
+
+   header{
+
+background-color: #b9aafa ;
+height: 60px;
+text-align: center;
+line-height: 60px;
+}
+
+.Footer{
+
+background-color:green;
+height: 60px;
+text-align: center;
+line-height: 60px;
+}
+
+.сontent{
+
+	background-image:blue;
+	height: 1400px;
+	text-align: center;
+	line-height: 60px;
+	width: 80%:
+	margin: 0 auto;
+}
+ 
+
+ .row {
+
+ 	display: flex;
+ }
+
+ .block {
+
+ 	background-color: black;
+ 		color:white;
+ 		margin: 15px;
+ 		padding: 10px;
+ 		flex-grow: 1;
+ 		border-radius: 10px;
+ }
+
+ .block img{
+ 	max-width: 100%;
+ 	max-height: 100%;
+ }
+
+ .menu {
+background-color:blue;
+color: white;
+ }
+
+ .menu li {
+
+display: inline-block;
+padding: 30px
+ }
+
+ body{
+background-image: url(https://help.supercellsupport.com/uploads/_2048x1176_crop_center-center_90/brawl2021_1_loading.jpg?mtime=20210128180445);
+
+ }
